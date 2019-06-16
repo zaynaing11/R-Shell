@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rshell.dir/src/rshell.cpp.o CMakeFiles/rshell.dir/src/commands.cpp.o CMakeFiles/rshell.dir/src/connectors.cpp.o  -o rshell 
